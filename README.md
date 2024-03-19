@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an online shopping website using flask framework for the backend and react for the frontend.<br>I'm currently learning c++.
+I'm a junior software developer.<br>I'm currently learning c++ and java. <br> I'm proficient in javascript and mailnly use react library for the frontend. <br> I'm also an intermidiate level python programmer and use flask framework for the backend.
 
 
 ## 🌐 Socials:
